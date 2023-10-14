@@ -4,6 +4,13 @@ size: 2048, 1024
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
+TileSets/FantasyHex/Tiles/Dead Sea
+  rotate: false
+  xy: 1192, 760
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Tiles/Lake Baikal
   rotate: false
   xy: 724, 212
