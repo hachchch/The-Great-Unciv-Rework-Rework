@@ -6,9 +6,9 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 TileSets/FantasyHex/Tiles/Dead Sea
   rotate: false
-  xy: 1192, 760
-  size: 32, 28
-  orig: 32, 28
+  xy: 1192, 755
+  size: 32, 33
+  orig: 32, 33
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Lake Baikal
