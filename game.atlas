@@ -1,0 +1,48 @@
+
+game.png
+size: 2048, 1024
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/FantasyHex/Tiles/Lake Baikal
+  rotate: false
+  xy: 724, 212
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Ha Long Bay
+  rotate: false
+  xy: 760, 256
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Manpupuner
+  rotate: false
+  xy: 868, 400
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Mount Elbrus
+  rotate: false
+  xy: 908, 428
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Mount Kilimanjaro
+  rotate: false
+  xy: 976, 500
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Perito Moreno
+  rotate: false
+  xy: 1232, 752
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
